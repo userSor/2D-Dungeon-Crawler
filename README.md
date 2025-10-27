@@ -4,7 +4,7 @@
 
 A 2D dungeon crawler game built for Android as a semester-long project for Georgia Tech's CS 2340 class. Our 5-person team used Agile methodologies and object-oriented principles to build a complete, playable game from scratch.
 
-**Note:** The source code for this project is hosted on a **private university repository** to comply with Georgia Tech's Academic Integrity Policy.
+**Note:** _The source code for this project is hosted on a **private university repository** to comply with Georgia Tech's Academic Integrity Policy._
 
 
 ## Tech Stack & Principles
